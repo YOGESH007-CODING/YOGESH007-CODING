@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YOGESH007-CODING
-- 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning Data Structures and React
-- 💞️ I’m looking to collaborate on React based projects
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Data Structures and Backend
+- 💞️ I’m looking to collaborate on Backend based projects
 - 📫 How to reach me via my gmail id: ys14022006star@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play flute.
