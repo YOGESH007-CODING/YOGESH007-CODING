@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Yogesh%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Machine%20Learning%20%7C%20AI%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://github.com/YOGESH007-CODING">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+don%27t+fall+over;Currently+deep+in+RAG+%26+spaced-repetition+systems;Always+shipping+something+new;Open+to+backend+collaborations!&font=Fira+Code&center=true&width=600&height=45&color=38bdf8&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+don%27t+fall+over;Currently+deep+in+RAG+%26+spaced-repetition+systems;Always+shipping+something+new;Open+to+backend+collaborations!&font=Fira+Code&center=true&width=600&height=45&color=38bdf8&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,25 +12,25 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
 ### 👋 About Me
 
-- 🎯 Backend-focused developer, currently sharpening **Data Structures** and **ML/AI systems**
-- 🧠 Building things that actually get used — a RAG document assistant, a LeetCode spaced-repetition trainer, and a stack of ML classifiers
-- 🌱 Learning: system design, retrieval-augmented generation, production-grade backend architecture
-- 🤝 Looking to collaborate on **backend-heavy** projects
-- ⚡ Fun fact: learning to play the flute on the side
+- 🎯 **Backend-focused developer**, sharpening **Data Structures** and **ML/AI systems**
+- 🧠 Building products that solve real problems: a RAG document assistant, a LeetCode spaced-repetition trainer, and ML classifiers
+- 🌱 Currently learning: **System Design**, **RAG Optimization**, and production backend architecture
+- 🤝 Looking to collaborate on **backend-heavy** open-source projects
+- ⚡ **Fun fact:** Learning to play the flute on the side!
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
 ### 📊 Quick Stats
 
-- 📁 **17** public repositories
-- 👥 **11** followers · **9** following
-- 🏆 GitHub **Pro**
-- 📫 Reach me at `ys14022006star[at]gmail.com`
+- 📁 **20** Public Repositories
+- 👥 **14** Followers · **10** Following
+- 🏆 GitHub **Pro** User
+- 📫 Reach me at: `ys14022006star@gmail.com`
 
 </td>
 </tr>
@@ -50,7 +50,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Backend & Data**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -68,7 +68,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Tools**
+**Tools & Infrastructure**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -85,39 +85,39 @@
 <td width="50%" valign="top">
 
 ### 🧠 [ContextOS](https://github.com/YOGESH007-CODING/RAG)
-Document-grounded AI assistant — upload PDFs/DOCX/XLSX/CSV/JSON and get cited, confidence-scored answers.
+Document-grounded AI assistant — upload PDFs, DOCX, XLSX, CSV, or JSON and receive cited, confidence-scored answers.
 
-`Next.js` `FastAPI` `MongoDB Atlas Vector Search` `Groq (Llama 3.1)`
+`Next.js` `FastAPI` `MongoDB Vector Search` `Groq (Llama 3.1)`
 
-Files are chunked and embedded into vector search, then a RAG pipeline answers questions with source citations rather than free-floating hallucinations. Currently getting a Linear.app-inspired frontend overhaul.
+Files are chunked and embedded into vector search; a custom RAG pipeline answers questions with source citations rather than hallucinations.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⏱️ [YEAP — Your Early AM Practice](https://github.com/YOGESH007-CODING/YEAP)
-A spaced-repetition trainer for LeetCode, built on the SM-2 algorithm.
+A spaced-repetition trainer for LeetCode problem-solving, powered by the SM-2 algorithm.
 
-`Node.js` `TypeScript` `React` `PostgreSQL/Prisma` `Redis/BullMQ`
+`Node.js` `TypeScript` `React` `PostgreSQL` `Prisma` `Redis` `BullMQ`
 
-Tracks per-company prep progress (Amazon, Google, Meta, etc.), syncs your LeetCode history automatically, and queues daily review emails via a background worker — with OTP email verification guarding signup.
+Tracks company-specific prep (Amazon, Google, Meta), syncs LeetCode history, and queues daily review emails via a background worker process.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ [Fake Job Listing Detection Model](https://github.com/YOGESH007-CODING/Fake_Job_Listing_Detection_Model) ⭐
-A machine learning classifier that flags fraudulent job postings before they waste anyone's time.
+### 🕵️ [Fake Job Listing Detection](https://github.com/YOGESH007-CODING/Fake_Job_Listing_Detection_Model) ⭐
+A machine learning classification pipeline built to flag fraudulent job postings automatically.
 
-`Python` `scikit-learn`
+`Python` `scikit-learn` `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 [BharatKart — Predictive Sales ML](https://github.com/YOGESH007-CODING/BharatKart-Predictive-Sales-ML)
-Sales forecasting model built around real retail-style data analysis.
+Sales forecasting model built on real-world retail dataset trends and feature engineering.
 
-`Python` `Jupyter Notebook`
+`Python` `Jupyter` `scikit-learn`
 
 </td>
 </tr>
@@ -125,15 +125,15 @@ Sales forecasting model built around real retail-style data analysis.
 <td width="50%" valign="top">
 
 ### 🎯 [TalentPulse](https://github.com/YOGESH007-CODING/TalentPulse)
-A Python-based project exploring talent/recruitment data workflows.
+A data-processing toolkit exploring recruitment workflows and applicant data pipelines.
 
 `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏆 [SIH](https://github.com/YOGESH007-CODING/SIH)
-Smart India Hackathon project — problem-solving under a tight build clock.
+### 🏆 [Smart India Hackathon (SIH)](https://github.com/YOGESH007-CODING/SIH)
+Hackathon codebase developed under strict time constraints to solve targeted public sector problem statements.
 
 `Python`
 
@@ -143,20 +143,17 @@ Smart India Hackathon project — problem-solving under a tight build clock.
 
 <br/>
 
-## 📈 GitHub Stats
+## 📈 Activity & Stats Overview
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=YOGESH007-CODING&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOGESH007-CODING&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YOGESH007-CODING&theme=tokyonight&hide_border=true" />
+![GitHub Repositories](https://img.shields.io/badge/Public_Repos-20-38bdf8?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode Solved](https://img.shields.io/badge/LeetCode-840%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro_Member-2ea44f?style=for-the-badge&logo=github&logoColor=white)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOGESH007-CODING&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=YOGESH007-CODING&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
