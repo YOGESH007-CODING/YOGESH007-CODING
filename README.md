@@ -30,7 +30,7 @@
 - 📁 **20** Public Repositories
 - 👥 **14** Followers · **10** Following
 - 🏆 GitHub **Pro** User
-- 📫 Reach me at: `ys14022006star@gmail.com`
+- 📫 Reach me at: `y.sharma.tech@gmail.com`
 
 </td>
 </tr>
